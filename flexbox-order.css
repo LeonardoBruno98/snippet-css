@@ -1,0 +1,18 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex div {
+    background-color: #eee;
+    width: 10vw;
+    height: 10vh;
+}
+
+.first {
+    order: 1;
+}
+
+.last {
+    order: 2;
+}

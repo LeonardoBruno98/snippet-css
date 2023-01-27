@@ -3,3 +3,4 @@ Welcome to this repository! Here you can find some useful snipped code to integr
 
 | Title | Difficulty | 🔗 |
 |:-----:|:----------:|:--:|
+|***Flexbox Order***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-css/tree/main/Flexbox-order)|

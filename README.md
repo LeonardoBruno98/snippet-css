@@ -5,3 +5,4 @@ Welcome to this repository! Here you can find some useful snipped code to integr
 |:-----:|:----------:|:--:|
 |***Flexbox Order***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-css/tree/main/Flexbox-order)|
 |***Accessibility***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-css/blob/main/accessibility.css)|
+|***Outline***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-css/blob/main/outline.css)|

@@ -1,0 +1,42 @@
+/*FIRST METHOD*/
+
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('webfont.eot'); /* IE9 Compat Modes */
+  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+/* Then use it to style elements like this: */
+
+body {
+  font-family: 'MyWebFont', Fallback, sans-serif;
+}
+
+/*SECOND METHOD*/
+
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+/*Then we can use it to style elements:*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*THIRD METHOD*/
+
+/*HTML*/
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+/*HTML*/
+  
+/*Then, we can style our elements like the other methods:*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
